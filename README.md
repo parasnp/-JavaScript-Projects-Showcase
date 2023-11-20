@@ -1,19 +1,3 @@
-Hi Everyone!
-
-Today we're going to create a new web application with JavaScript (Vanilla JavaScript: No Framework).
-
-In this tutorial, a JavaScript Beginner can create a functional Weather App with ease. and won't face any problems doing that.
-
-You must know the basics in JavaScript and HTML, like JavaScript Objects, functions, If statements, ... etc
-
-The only difficulty you might face, is how to work with an API using JavaScript? but trust me that won't be of a big problem.
-
-Let's talk about the application you're going to build; our weather app will show the weather information that it will get from the API like this, an Icon that shows the weather status, the temperature value (18°C) in Celsius unit, the weather description (clear sky), and then the user's city and country (London, GB).
-
-When the user clicks on the temperature value, that will convert it from Celsius to Fahrenheit.
-
-The icons we're going to use for our web application are created by the Graphic Designer Ashley Jager.
-Link to her Repo: https://github.com/manifestinteractive/weather-underground-icons
-
-The API provider is http://www.OpenWeatherMap.org
-
+# -JavaScript-Projects-Showcase
+Welcome to my JavaScript Projects repository! As an individual developer, I'm excited to share a collection of my JavaScript creations with you. This repository is a showcase of my passion for coding and JavaScript's incredible capabilities. Whether you're here to learn, get inspired, or simply explore my work
+These projects represent my coding journey and the unique ideas and challenges I've encountered along the way.I've provided detailed documentation for each project, along with explanations to help you understand the code structure and the thought process behind it.Whether you're a fellow developer or just starting with JavaScript, I believe we can all learn from one another. Let's explore the world of JavaScript together.I'm open to your suggestions and contributions. Feel free to open issues, submit pull requests, or share your ideas.
